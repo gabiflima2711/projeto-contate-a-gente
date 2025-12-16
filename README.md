@@ -1,7 +1,12 @@
-# Porfólio de Estudos
-Olá, este repositório serve para colocar meus **primeiros projetos** com HTML, CSS e JS, conforme avanço nos meus estudos pelo curso da DIO.me. 
+# Contate a gente!
+## Projeto de página 
+Projeto de contato para Agência de Marketing, utilizando apenas HTML e CSS. 
 
-![cat coding](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif)
+<img width="1231" height="661" alt="image" src="https://github.com/user-attachments/assets/797a3eff-42c7-4471-a400-55dca14a9b68" />
 
-## Lembrete
-Estou começando do zero, então meus códigos podem conter erros de sintaxe e semântica. Fique à vontade para colaborar com ideias e dicas, mas leve em consideração que sou nova neste mundo :)
+## Atividade para treinar:
+- HTML.
+- CSS.
+- Responsividade.
+
+Atividade tirada do repositório [mini projects for begginers](https://github.com/kemilbeltre/begginers-html-css-javaScript/tree/master/Mini-projects/Contact-Form]). 
